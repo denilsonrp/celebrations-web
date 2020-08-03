@@ -23,3 +23,14 @@ yarn start
 
 # O projeto web irá iniciar na porta :3000
 ```
+
+```bash
+# Gerar arquivos para produção
+yarn build
+
+surge --domain http://paroquiasantoantoniopiquete.surge.sh/
+```
+
+## 💻 Demonstração
+
+![Demonstração](/assets/demonstration.gif)
